@@ -3,6 +3,7 @@
 # 👀 I’m interested in Front End Development
 # 🌱 I’m currently learning HTML
 # 📫 How to reach me: unaymazlum@gmail.com
+<img src="codingnight.gif" width="auto">
 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/mazlumunay) 
