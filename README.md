@@ -1,4 +1,8 @@
 ### Hi there 👋
+# 🔭 I’m currently working on Web Technologies
+# 👀 I’m interested in Front End Development
+# 🌱 I’m currently learning HTML
+# 📫 How to reach me: unaymazlum@gmail.com
 
 <!--
 **mazlumunay/mazlumunay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
