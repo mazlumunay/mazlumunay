@@ -1,7 +1,7 @@
 # Hi there 👋
 ## 🔭 I’m currently working on Web Technologies
 ## 👀 I’m interested in Front End Development
-## 🌱 I’m currently learning HTML
+## 🌱 I’m currently learning HTML & CSS
 ## 📫 How to reach me: unaymazlum@gmail.com
 ### <img src="codingnight.gif" width="auto">
 
