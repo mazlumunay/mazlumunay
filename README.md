@@ -1,7 +1,6 @@
 # Hi there 👋
 ## 🔭 I’m currently working on Web Technologies
 ## 👀 I’m interested in Full Stack Software Development
-## 🌱 I’m currently learning HTML & CSS, SQL
 ## 📫 How to reach me: unaymazlum@gmail.com
 ### <img src="codingnight.gif" width="auto">
 
