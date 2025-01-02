@@ -1,26 +1,17 @@
-# Hi there 👋
-## 🔭 I’m currently working on Web Technologies
-## 👀 I’m interested in Full Stack Software Development
-## 📫 How to reach me: unaymazlum@gmail.com
-### <img src="codingnight.gif" width="auto">
+### Hi there 👋  
 
+🔭 **Currently working on:**  
+- Full Stack Development with **Next.js**, **React.js**, and **Node.js**.  
+- Building scalable inventory systems and AI-powered solutions.  
 
+🌱 **Skills:**  
+- Frontend: Next.js, React.js, Tailwind CSS  
+- Backend: Node.js, Django, SQL  
+- AI/ML: Python, TensorFlow, Scikit-learn  
 
-<!--  
-[![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](link) 
-[![Blogger Badge](https://img.shields.io/badge/-Blogger-FF9800?style=flat-quare&labelColor=FF9800&logo=Blogger&logoColor=white&link=link)](link)
--->
-<!--
-**mazlumunay/mazlumunay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 **Professional Experience:**  
+- Full Stack Developer @ Serpo Technology  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **How to reach me:**  
+- Email: unaymazlum@gmail.com  
+- LinkedIn: [linkedin.com/in/mazlumunay](https://linkedin.com/in/mazlumunay)  
