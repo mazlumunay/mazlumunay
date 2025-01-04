@@ -42,5 +42,6 @@ Feel free to reach out! I’m always open to exciting discussions, collaboration
 
 ---
 
-### ⚡ **Fun Fact:**  
-I have a master's degree in engineering with a specialization in **image processing** and have published several academic papers on the subject. 🚀
+### 🎯 **Did You Know?**  
+- I enjoy learning new languages—I'm currently improving my Spanish! 🌎  
+- I have a master's degree in engineering specializing in **image processing** and have published several academic papers on the subject. 🚀
