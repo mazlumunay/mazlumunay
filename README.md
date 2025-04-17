@@ -26,6 +26,18 @@ I’m **Mazlum Unay**, a dedicated Full Stack Developer with a strong background
 
 ---
 
+### 🚀 **Featured Projects**
+
+- **Inventory Management System**  
+  - Full Stack app built with **Next.js + Node.js + PostgreSQL**.  
+  - Features: Real-time updates, role-based access, analytics dashboard.   
+
+- **AI-Powered Image Analyzer**  
+  - Python tool for medical image segmentation using **TensorFlow**.  
+  - Achieved **92% accuracy** on benchmark datasets.  
+
+---
+
 ### 💼 **Professional Experience:**  
 - **Full Stack Developer @ Serpo Technology**  
   - Spearheading the development of a web-based inventory management system.  
