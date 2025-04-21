@@ -46,9 +46,14 @@ I’m **Mazlum Unay**, a dedicated Full Stack Developer with a strong background
 
 ---
 
-### 📫 **Get in Touch:**  
-- **Email:** [unaymazlum@gmail.com](mailto:unaymazlum@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/mazlumunay](https://linkedin.com/in/mazlumunay)  
+## 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mazlumunay/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mazlumunay)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mazyy47/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:unaymazlum@gmail.com)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=pn4cZR0AAAAJ&hl=en)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Mazlum-Unay) 
 
 Feel free to reach out! I’m always open to exciting discussions, collaborations, and learning opportunities.  
 
