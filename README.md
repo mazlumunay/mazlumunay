@@ -44,21 +44,22 @@ I’m **Mazlum Unay**, a dedicated Full Stack Developer with a strong background
   - Collaborating with cross-functional teams to deliver scalable software solutions.  
   - Ensuring clean, maintainable code with a focus on performance and security.
 
----
-
-## 🔗 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mazlumunay/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mazlumunay)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mazyy47/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:unaymazlum@gmail.com)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=pn4cZR0AAAAJ&hl=en)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Mazlum-Unay) 
-
-Feel free to reach out! I’m always open to exciting discussions, collaborations, and learning opportunities.  
 
 ---
 
 ### 🎯 **Did You Know?**  
 - I enjoy learning new languages—I'm currently improving my Spanish! 🌎  
 - I have a master's degree in engineering specializing in **image processing** and have published several academic papers on the subject. 🚀
+
+---
+
+## 🔗 Connect with Me
+
+Feel free to reach out! I’m always open to exciting discussions, collaborations, and learning opportunities.  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mazlumunay/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:unaymazlum@gmail.com)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=pn4cZR0AAAAJ&hl=en)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Mazlum-Unay) 
+
+
