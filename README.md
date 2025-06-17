@@ -1,6 +1,8 @@
 # Hi there 👋 Welcome to my GitHub!  
 
 I’m **Mazlum Unay**, a dedicated Full Stack Developer with a strong background in engineering and a passion for building scalable applications and AI-driven solutions.
+With a Master's degree in Engineering specializing in Image Processing and published academic research, I bring a unique blend of theoretical knowledge and practical development skills to create innovative solutions. 
+I'm currently focused on developing enterprise-grade applications and exploring the intersection of web technologies and artificial intelligence.
 
 ---
 
